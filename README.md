@@ -3,6 +3,6 @@
 ## Criando um sistema bancário com as operações:
 * Sacar
 * Depositar
-* Visualizar status
+* Visualizar extrato
 
 # Na linguagem PYTHON
