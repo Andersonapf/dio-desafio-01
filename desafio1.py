@@ -30,6 +30,7 @@ while True:
             print("Operação falhou! O valor informado é inválido.")   
 
     elif opcao == "s":
+        numnero_saque += 1
         valor = float(input("Informe o valor de saque: "))
 
         exedeu_saldo = valor > saldo
